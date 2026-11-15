@@ -1,0 +1,10 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": { "name": "YOUR-BUCKET-NAME" },
+        "object": { "key": "activity/ACT-YYYYMMDD-HHMMSS-XXXX.json" }
+      }
+    }
+  ]
+}

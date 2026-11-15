@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+.env
+.env.*
+!.env.example
+.git
+.gitignore
+activity
+k8s
+lambda
+aws
+docs
+*.md
+Dockerfile
